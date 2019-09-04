@@ -3,6 +3,10 @@
 Hard to find windows binaries of `OIIO` built with `OCIO`
 
 From here http://www.nico-rehberg.de/tools.html 
+### Docs
+
+https://openimageio.readthedocs.io/en/latest/pythonbindings.html
+
 
 ### Usage
 With aces `$OCIO` set
