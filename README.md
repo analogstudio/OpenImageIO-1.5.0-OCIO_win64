@@ -1,5 +1,10 @@
-# OpenImageIO-1.5.0-OCIO_win64
+## Now included with Houdini 19
+🧡 oiiotool is now included in houdini 19! It is newer and faster than this 1.5 version
+```
+"C:\Program Files\Side Effects Software\Houdini 19.0.498\bin\hoiiotool.exe"
+```
 
+# OpenImageIO-1.5.0-OCIO_win64
 Hard to find windows binaries of `OIIO` built with `OCIO`
 
 From here http://www.nico-rehberg.de/tools.html 
